@@ -15,5 +15,14 @@ h1#hmh1 {
     font-weight: 900;
     margin-top: 1%;
     margin-left: 2%;
-    color: #8c53c6;
+    color: #7b1004;
+}
+p#hmp {
+    font-weight: 900;
+    color: #000080;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 9%;
+    font-size: 33px;
+    font-family: 'Playfair Display', serif;
 }
