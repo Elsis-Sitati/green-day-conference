@@ -27,3 +27,9 @@ p#hmp {
     font-family: 'Playfair Display', serif;
     animation-delay: 1s;
 }
+div#speakers {
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: green;
+}
